@@ -1,4 +1,4 @@
-#爬取豆瓣top250部电影信息，scrapy runspider moviespider.py
+#爬取豆瓣top250部电影信息
 # -*- coding: utf-8 -*-
 import scrapy
 from scrapy.loader import ItemLoader
